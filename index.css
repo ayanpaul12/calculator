@@ -1,0 +1,21 @@
+.main{
+  text-align: center;
+  background-color: gray;
+  border: 5px solid black;
+  width: fit-content;
+}
+h3{
+  position: relative;
+  left: -68px;
+  margin-top: 0;
+  margin-bottom: 0 ;
+  /*! font-size: 19px; */
+  bottom:2px;
+}
+input{
+  width: 52px;
+  background-color: gray;
+  color: blanchedalmond;
+  height: 52px;
+  
+}
