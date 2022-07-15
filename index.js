@@ -10,6 +10,6 @@ function display(value) {
 // This function evaluates the expression and returns result
 function calculate() {
     var p = document.querySelectorAll(".result")[0].value;
-    var q = eval(p);
+   var q = eval(p);
     document.querySelectorAll(".result")[0].value = q;
 }
